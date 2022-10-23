@@ -17,6 +17,11 @@ Step 5: The content in the original file will be copied in the new file.
 
 Step 6: End the program.
 ## PROGRAM:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
+
 ```
 with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
